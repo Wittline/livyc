@@ -1,2 +1,2 @@
 # livyc
-livyc
+Apache Livy Client
