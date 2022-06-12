@@ -1,7 +1,12 @@
 # livyc
-Apache Livy Client
+## Apache Livy Client
 
-![image](https://user-images.githubusercontent.com/8701464/173258806-a1d55121-1d05-4ed3-9c6b-3b31d9b61f82.png)
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/8701464/173258806-a1d55121-1d05-4ed3-9c6b-3b31d9b61f82.png"
+  >
+</p>
 
 
 ## Install library
