@@ -68,3 +68,13 @@ lvy.run_script(session, pyspark_script.format(**params))
 ```python
 lvy.read_variable(session, "n_rows")
 ```
+
+## Contributing and Feedback
+Any ideas or feedback about this repository?. Help me to improve it.
+
+## Authors
+- Created by <a href="https://twitter.com/RamsesCoraspe"><strong>Ramses Alexander Coraspe Valdez</strong></a>
+- Created on 2022
+
+## License
+This project is licensed under the terms of the MIT License.
